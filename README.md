@@ -52,9 +52,11 @@ Set the Installation Path:
 For example: C:\Program Files\YourAppName.
 If you want the installer to create a desktop shortcut, configure it in the wizard.
 Add any other files or dependencies your application requires.
+
 **7. Build the Installer**
 Once all configurations are complete, click Build Installer.
 Save the project file and let Install Creator Pro generate the installer.
+
 **8. Test the Installer**
 Run the generated .exe installer to test the installation process.
 Verify that the JAR file and other components are correctly installed.
